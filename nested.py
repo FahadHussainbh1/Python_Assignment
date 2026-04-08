@@ -6,4 +6,7 @@ if hasticket :
     else:
         print("You may sit on General Section")
 else:
-    print("No Entry")            
+    print("No Entry") 
+    
+for i in range(1,10)
+    print(i)
